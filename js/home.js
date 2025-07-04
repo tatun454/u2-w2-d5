@@ -67,7 +67,7 @@ function populateCarousel(carouselId, images) {
   }
 }
 
-//carosello Trending Now
+//caroselli
 const shuffledImages = shuffle([...images]);
 populateCarousel("trending-carousel-inner", shuffledImages);
 

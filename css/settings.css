@@ -1,0 +1,79 @@
+body {
+  background: #f7f7f7;
+  color: #222;
+}
+.navbar {
+  background: #141414;
+}
+
+.account-container {
+  max-width: 900px;
+  margin: 40px auto 0 auto;
+  background: #fff;
+  padding: 40px 30px 30px 30px;
+  border-radius: 0;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.02);
+}
+.account-title {
+  font-size: 2.5rem;
+  font-weight: 400;
+  margin-bottom: 1.5rem;
+}
+.account-section-title {
+  color: #888;
+  font-size: 1.1rem;
+  font-weight: 500;
+  letter-spacing: 1px;
+  margin-bottom: 0.5rem;
+  margin-top: 2rem;
+}
+.account-divider {
+  border-bottom: 2px solid #e5e5e5;
+  margin: 1.5rem 0;
+}
+.account-label {
+  color: #888;
+  font-size: 1rem;
+  font-weight: 500;
+  letter-spacing: 1px;
+}
+.account-link {
+  color: #0071eb;
+  text-decoration: none;
+  font-size: 1rem;
+}
+.account-link:hover {
+  text-decoration: underline;
+}
+.btn-membership {
+  background: #e6e6e6;
+  color: #222;
+  border: 1px solid #ccc;
+  font-weight: 500;
+  border-radius: 3px;
+  padding: 0.3rem 1.2rem;
+  margin-bottom: 0.5rem;
+}
+.plan-badge {
+  background: #222;
+  color: #fff;
+  font-size: 0.85rem;
+  border-radius: 3px;
+  padding: 0.1rem 0.5rem;
+  margin-left: 0.5rem;
+  font-weight: 500;
+  letter-spacing: 1px;
+  display: inline-block;
+}
+.ultra-hd-badge {
+  background: #fff;
+  color: #222;
+  border: 1px solid #222;
+  font-size: 0.85rem;
+  border-radius: 3px;
+  padding: 0.1rem 0.5rem;
+  margin-left: 0.5rem;
+  font-weight: 500;
+  letter-spacing: 1px;
+  display: inline-block;
+}
