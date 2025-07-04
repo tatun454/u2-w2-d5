@@ -10,5 +10,6 @@
   -aggiunta pagina js per alert.
 
 - Complete Settings
-  Qualche aggiustamento per renderlo più orinato ed elegante per il mio punto di vista ovviamente.
+  Qualche aggiustamento per renderlo più ordinato ed elegante per il mio punto di vista ovviamente.
   cambio testo da student strive a user.
+  -aggiunto collegamento ad entrambe le altre pagine.
